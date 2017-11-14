@@ -1,0 +1,29 @@
+# ---- November 14, 2017 ----------------
+
+Completed: Fixed Fitness function
+
+# ---- November 13, 2017 ------------------------
+Next Time: Run exp
+
+Completed: Save Function
+           Playback
+           Defined Mutation parameters
+
+# ---- October 28, 2017 ------------------------------
+Next Time: Saving evolutionary run
+           Solidify mutations
+           Run experiments?
+           
+Completed: Fitness averaging
+           Plotting embedding
+           Fixed joint ranges
+           Simple evolution running
+
+# ---- October 27, 2017 ------------------------------
+Next Time: Look at joint ranges
+           simple evolve
+           fitness function averaging over multiple environments
+
+Completed: Evaluation of population
+           playback
+           timing vs. ThreadPool()
